@@ -1,34 +1,25 @@
-# Translation of Odoo Server.
-# This file contains the translation of the following modules:
-# * base_search_fuzzy
-#
-# Translators:
-# OCA Transbot <transbot@odoo-community.org>, 2017
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0\n"
+"Project-Id-Version: ametras-xsolutions\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-12-01 02:10+0000\n"
-"PO-Revision-Date: 2017-12-01 02:10+0000\n"
-"Last-Translator: OCA Transbot <transbot@odoo-community.org>, 2017\n"
-"Language-Team: French (https://www.transifex.com/oca/teams/23907/fr/)\n"
-"Language: fr\n"
+"Last-Translator: \n"
+"Language-Team: French\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: ametras-xsolutions\n"
+"X-Crowdin-Project-ID: 530964\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[AmetrasIntelligence.server-tools] 13.0/base_search_fuzzy/i18n/base_search_fuzzy.pot\n"
+"X-Crowdin-File-ID: 5546\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2022-08-06 22:03\n"
 
 #. module: base_search_fuzzy
 #: model:ir.model.fields,help:base_search_fuzzy.field_trgm_index__index_type
-msgid ""
-"Cite from PostgreSQL documentation: \"As a rule of thumb, a GIN index is "
-"faster to search than a GiST index, but slower to build or update; so GIN is "
-"better suited for static data and GiST for often-updated data.\""
-msgstr ""
-"Cité dans la documentation PostgreSQL: \"En règle générale, un index GIN est "
-"plus rapide pour la recherche qu'un index GiST, mais plus lent à construire "
-"ou à mettre à jour, donc GIN est mieux adapté pour les données statiques et "
-"GiST pour des données souvent mises à jour.\""
+msgid "Cite from PostgreSQL documentation: \"As a rule of thumb, a GIN index is faster to search than a GiST index, but slower to build or update; so GIN is better suited for static data and GiST for often-updated data.\""
+msgstr "Cité dans la documentation PostgreSQL: \"En règle générale, un index GIN est plus rapide pour la recherche qu'un index GiST, mais plus lent à construire ou à mettre à jour, donc GIN est mieux adapté pour les données statiques et GiST pour des données souvent mises à jour.\""
 
 #. module: base_search_fuzzy
 #: model:ir.model.fields,field_description:base_search_fuzzy.field_trgm_index__create_uid
@@ -43,7 +34,7 @@ msgstr "Créé le"
 #. module: base_search_fuzzy
 #: model:ir.model.fields,field_description:base_search_fuzzy.field_trgm_index__display_name
 msgid "Display Name"
-msgstr "Nom affiché"
+msgstr "Nom d'affichage"
 
 #. module: base_search_fuzzy
 #: model:ir.model.fields,field_description:base_search_fuzzy.field_trgm_index__field_id
@@ -53,17 +44,17 @@ msgstr "Champ"
 #. module: base_search_fuzzy
 #: model:ir.model.fields.selection,name:base_search_fuzzy.selection__trgm_index__index_type__gin
 msgid "GIN"
-msgstr "GIN"
+msgstr ""
 
 #. module: base_search_fuzzy
 #: model:ir.model.fields.selection,name:base_search_fuzzy.selection__trgm_index__index_type__gist
 msgid "GiST"
-msgstr "GiST"
+msgstr ""
 
 #. module: base_search_fuzzy
 #: model:ir.model.fields,field_description:base_search_fuzzy.field_trgm_index__id
 msgid "ID"
-msgstr "ID"
+msgstr ""
 
 #. module: base_search_fuzzy
 #: model:ir.model.fields,field_description:base_search_fuzzy.field_trgm_index__index_name
@@ -89,25 +80,21 @@ msgstr "Dernière modification le"
 #. module: base_search_fuzzy
 #: model:ir.model.fields,field_description:base_search_fuzzy.field_trgm_index__write_uid
 msgid "Last Updated by"
-msgstr "Mis à jour par"
+msgstr "Dernière mise à jour par"
 
 #. module: base_search_fuzzy
 #: model:ir.model.fields,field_description:base_search_fuzzy.field_trgm_index__write_date
 msgid "Last Updated on"
-msgstr "Mis à jour le"
+msgstr "Dernière mise à jour le"
 
 #. module: base_search_fuzzy
 #: model:ir.model,name:base_search_fuzzy.model_ir_model
 msgid "Models"
-msgstr "Modèles"
+msgstr "Des modèles"
 
 #. module: base_search_fuzzy
 #: model:ir.model.fields,help:base_search_fuzzy.field_trgm_index__index_name
-msgid ""
-"The index name is automatically generated like fieldname_indextype_idx. If "
-"the index already exists and the index is located in the same table then "
-"this index is reused. If the index is located in another table then a number "
-"is added at the end of the index name."
+msgid "The index name is automatically generated like fieldname_indextype_idx. If the index already exists and the index is located in the same table then this index is reused. If the index is located in another table then a number is added at the end of the index name."
 msgstr ""
 
 #. module: base_search_fuzzy
@@ -129,3 +116,4 @@ msgstr "Index Trigram"
 #: model:ir.model.fields,help:base_search_fuzzy.field_trgm_index__field_id
 msgid "You can either select a field of type \"text\" or \"char\"."
 msgstr "Vous puvez choisir chaque champ de type \"text\" ou \"char\"."
+
