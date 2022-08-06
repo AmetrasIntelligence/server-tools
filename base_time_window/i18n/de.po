@@ -1,0 +1,152 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ametras-xsolutions\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: German\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: ametras-xsolutions\n"
+"X-Crowdin-Project-ID: 530964\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /[AmetrasIntelligence.server-tools] 13.0/base_time_window/i18n/base_time_window.pot\n"
+"X-Crowdin-File-ID: 5550\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2022-08-06 22:02\n"
+
+#. module: base_time_window
+#: code:addons/base_time_window/models/time_window_mixin.py:0
+#, python-format
+msgid "%s must be > %s"
+msgstr ""
+
+#. module: base_time_window
+#: code:addons/base_time_window/models/time_window_mixin.py:0
+#, python-format
+msgid "%s overlaps %s"
+msgstr ""
+
+#. module: base_time_window
+#: code:addons/base_time_window/models/time_window_mixin.py:0
+#, python-format
+msgid "At least one time.weekday is required"
+msgstr ""
+
+#. module: base_time_window
+#: model:ir.model.fields,field_description:base_time_window.field_time_weekday__create_uid
+msgid "Created by"
+msgstr "Erstellt von"
+
+#. module: base_time_window
+#: model:ir.model.fields,field_description:base_time_window.field_time_weekday__create_date
+msgid "Created on"
+msgstr "Erstellt am"
+
+#. module: base_time_window
+#: model:ir.model.fields,field_description:base_time_window.field_time_weekday__display_name
+#: model:ir.model.fields,field_description:base_time_window.field_time_window_mixin__display_name
+msgid "Display Name"
+msgstr "Anzeigename"
+
+#. module: base_time_window
+#: model:ir.model.fields.selection,name:base_time_window.selection__time_weekday__name__4
+msgid "Friday"
+msgstr "Freitag"
+
+#. module: base_time_window
+#: model:ir.model.fields,field_description:base_time_window.field_time_window_mixin__time_window_start
+msgid "From"
+msgstr "Von"
+
+#. module: base_time_window
+#: model:ir.model.fields,field_description:base_time_window.field_time_weekday__id
+#: model:ir.model.fields,field_description:base_time_window.field_time_window_mixin__id
+msgid "ID"
+msgstr "ID"
+
+#. module: base_time_window
+#: model:ir.model.fields,field_description:base_time_window.field_time_weekday____last_update
+#: model:ir.model.fields,field_description:base_time_window.field_time_window_mixin____last_update
+msgid "Last Modified on"
+msgstr "Zuletzt geändert am"
+
+#. module: base_time_window
+#: model:ir.model.fields,field_description:base_time_window.field_time_weekday__write_uid
+msgid "Last Updated by"
+msgstr "Zuletzt aktualisiert von"
+
+#. module: base_time_window
+#: model:ir.model.fields,field_description:base_time_window.field_time_weekday__write_date
+msgid "Last Updated on"
+msgstr "Zuletzt aktualisiert am"
+
+#. module: base_time_window
+#: model:ir.model.fields.selection,name:base_time_window.selection__time_weekday__name__0
+msgid "Monday"
+msgstr "Montag"
+
+#. module: base_time_window
+#: model:ir.model.fields,field_description:base_time_window.field_time_weekday__name
+msgid "Name"
+msgstr "Name"
+
+#. module: base_time_window
+#: code:addons/base_time_window/models/time_weekday.py:0
+#: model:ir.model.constraint,message:base_time_window.constraint_time_weekday_name_uniq
+#, python-format
+msgid "Name must be unique"
+msgstr ""
+
+#. module: base_time_window
+#: model:ir.model.fields.selection,name:base_time_window.selection__time_weekday__name__5
+msgid "Saturday"
+msgstr "Samstag"
+
+#. module: base_time_window
+#: model:ir.model.fields.selection,name:base_time_window.selection__time_weekday__name__6
+msgid "Sunday"
+msgstr "Sonntag"
+
+#. module: base_time_window
+#: model:ir.model.fields.selection,name:base_time_window.selection__time_weekday__name__3
+msgid "Thursday"
+msgstr "Donnerstag"
+
+#. module: base_time_window
+#: model:ir.model,name:base_time_window.model_time_weekday
+msgid "Time Week Day"
+msgstr ""
+
+#. module: base_time_window
+#: model:ir.model,name:base_time_window.model_time_window_mixin
+msgid "Time Window"
+msgstr ""
+
+#. module: base_time_window
+#: model:ir.model.fields,field_description:base_time_window.field_time_window_mixin__time_window_weekday_ids
+msgid "Time Window Weekday"
+msgstr ""
+
+#. module: base_time_window
+#: model:ir.model.fields,field_description:base_time_window.field_time_window_mixin__time_window_end
+msgid "To"
+msgstr "Zu"
+
+#. module: base_time_window
+#: model:ir.model.fields.selection,name:base_time_window.selection__time_weekday__name__1
+msgid "Tuesday"
+msgstr "Dienstag"
+
+#. module: base_time_window
+#: model:ir.model.fields.selection,name:base_time_window.selection__time_weekday__name__2
+msgid "Wednesday"
+msgstr "Mittwoch"
+
+#. module: base_time_window
+#: code:addons/base_time_window/models/time_window_mixin.py:0
+#, python-format
+msgid "{days}: From {start} to {end}"
+msgstr ""
+
