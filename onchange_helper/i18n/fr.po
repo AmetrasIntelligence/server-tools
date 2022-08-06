@@ -1,27 +1,23 @@
-# Translation of Odoo Server.
-# This file contains the translation of the following modules:
-# * onchange_helper
-#
-# Translators:
-# Quentin THEURET <odoo@kerpeo.com>, 2018
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 11.0\n"
+"Project-Id-Version: ametras-xsolutions\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-03 10:08+0000\n"
-"PO-Revision-Date: 2018-03-03 10:08+0000\n"
-"Last-Translator: Quentin THEURET <odoo@kerpeo.com>, 2018\n"
-"Language-Team: French (https://www.transifex.com/oca/teams/23907/fr/)\n"
-"Language: fr\n"
+"Last-Translator: \n"
+"Language-Team: French\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: ametras-xsolutions\n"
+"X-Crowdin-Project-ID: 530964\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[AmetrasIntelligence.server-tools] 13.0/onchange_helper/i18n/onchange_helper.pot\n"
+"X-Crowdin-File-ID: 5588\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2022-08-06 22:03\n"
 
 #. module: onchange_helper
 #: model:ir.model,name:onchange_helper.model_base
 msgid "Base"
 msgstr ""
 
-#~ msgid "base"
-#~ msgstr "base"
