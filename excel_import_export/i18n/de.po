@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.server-tools] 13.0/excel_import_export/i18n/excel_import_export.pot\n"
 "X-Crowdin-File-ID: 5564\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 22:02\n"
+"PO-Revision-Date: 2022-08-07 00:02\n"
 
 #. module: excel_import_export
 #: model_terms:ir.ui.view,arch_db:excel_import_export.view_xlsx_template_form
@@ -1094,7 +1094,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:excel_import_export.field_import_xlsx_wizard__template_id
 #: model:ir.model.fields,field_description:excel_import_export.field_xlsx_report__template_id
 msgid "Template"
-msgstr ""
+msgstr "Vorlage"
 
 #. module: excel_import_export
 #: code:addons/excel_import_export/models/ir_report.py:0
