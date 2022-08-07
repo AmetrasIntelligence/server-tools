@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.server-tools] 13.0/base_custom_info/i18n/base_custom_info.pot\n"
 "X-Crowdin-File-ID: 5532\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 22:03\n"
+"PO-Revision-Date: 2022-08-07 00:02\n"
 
 #. module: base_custom_info
 #: model_terms:ir.ui.view,arch_db:base_custom_info.custom_info_value_form
@@ -688,7 +688,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:base_custom_info.field_custom_info_property__template_id
 #: model_terms:ir.ui.view,arch_db:base_custom_info.custom_info_property_search
 msgid "Template"
-msgstr ""
+msgstr "Vorlage"
 
 #. module: base_custom_info
 #: model:ir.actions.act_window,name:base_custom_info.custom_info_template_action
