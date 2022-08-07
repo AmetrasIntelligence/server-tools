@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.server-tools] 13.0/excel_import_export_demo/i18n/excel_import_export_demo.pot\n"
 "X-Crowdin-File-ID: 5566\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 22:02\n"
+"PO-Revision-Date: 2022-08-07 00:02\n"
 
 #. module: excel_import_export_demo
 #: model:ir.actions.report,print_report_name:excel_import_export_demo.action_report_saleorder_excel
@@ -217,7 +217,7 @@ msgstr "Status"
 #: model:ir.model.fields,field_description:excel_import_export_demo.field_report_crm_lead__template_id
 #: model:ir.model.fields,field_description:excel_import_export_demo.field_report_sale_order__template_id
 msgid "Template"
-msgstr ""
+msgstr "Vorlage"
 
 #. module: excel_import_export_demo
 #: model:ir.model.fields,help:excel_import_export_demo.field_report_partner_list__results
