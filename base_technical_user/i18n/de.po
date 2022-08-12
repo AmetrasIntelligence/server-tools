@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.server-tools] 13.0/base_technical_user/i18n/base_technical_user.pot\n"
 "X-Crowdin-File-ID: 5548\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 22:02\n"
+"PO-Revision-Date: 2022-08-12 14:42\n"
 
 #. module: base_technical_user
 #: model:ir.model,name:base_technical_user.model_base
@@ -29,7 +29,7 @@ msgstr "Unternehmen"
 #. module: base_technical_user
 #: model_terms:ir.ui.view,arch_db:base_technical_user.res_company_view_form_inherit_base_technical_user
 msgid "Configuration"
-msgstr ""
+msgstr "Konfiguration"
 
 #. module: base_technical_user
 #: model_terms:ir.ui.view,arch_db:base_technical_user.res_company_view_form_inherit_base_technical_user
