@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.server-tools] 13.0/module_analysis/i18n/module_analysis.pot\n"
 "X-Crowdin-File-ID: 5582\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 22:03\n"
+"PO-Revision-Date: 2022-08-12 08:19\n"
 
 #. module: module_analysis
 #: model:ir.model.fields,field_description:module_analysis.field_base_module_update__analyse_installed_modules
@@ -181,7 +181,7 @@ msgstr ""
 #. module: module_analysis
 #: model:ir.ui.menu,name:module_analysis.menu_module_analysis_reporting
 msgid "Reporting"
-msgstr ""
+msgstr "Berichte"
 
 #. module: module_analysis
 #: model:ir.model.fields,field_description:module_analysis.field_ir_module_type__sequence
