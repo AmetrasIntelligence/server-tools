@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.server-tools] 13.0/sql_request_abstract/i18n/sql_request_abstract.pot\n"
 "X-Crowdin-File-ID: 5660\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 22:03\n"
+"PO-Revision-Date: 2022-08-16 15:09\n"
 
 #. module: sql_request_abstract
 #: model:ir.model.fields,field_description:sql_request_abstract.field_sql_request_mixin__group_ids
@@ -124,7 +124,7 @@ msgstr ""
 #. module: sql_request_abstract
 #: model:res.groups,name:sql_request_abstract.group_sql_request_user
 msgid "User"
-msgstr ""
+msgstr "Benutzer"
 
 #. module: sql_request_abstract
 #: model:ir.model.fields,help:sql_request_abstract.field_sql_request_mixin__query
