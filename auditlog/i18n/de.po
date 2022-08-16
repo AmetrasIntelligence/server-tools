@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.server-tools] 13.0/auditlog/i18n/auditlog.pot\n"
 "X-Crowdin-File-ID: 5524\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-11 15:01\n"
+"PO-Revision-Date: 2022-08-16 15:09\n"
 
 #. module: auditlog
 #: model:ir.model.fields,field_description:auditlog.field_auditlog_rule__action_id
@@ -256,7 +256,7 @@ msgstr "Schreiben protokollieren"
 #: model_terms:ir.ui.view,arch_db:auditlog.view_auditlog_http_request_form
 #: model_terms:ir.ui.view,arch_db:auditlog.view_auditlog_log_search
 msgid "Logs"
-msgstr ""
+msgstr "Logs"
 
 #. module: auditlog
 #: model:ir.model.fields,field_description:auditlog.field_auditlog_log__method
@@ -421,7 +421,7 @@ msgstr "Deaktivieren"
 #: model_terms:ir.ui.view,arch_db:auditlog.view_auditlog_http_session_search
 #: model_terms:ir.ui.view,arch_db:auditlog.view_auditlog_log_search
 msgid "User"
-msgstr ""
+msgstr "Benutzer"
 
 #. module: auditlog
 #: model_terms:ir.ui.view,arch_db:auditlog.view_auditlog_http_request_search
