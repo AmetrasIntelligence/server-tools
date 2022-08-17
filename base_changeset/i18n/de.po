@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.server-tools] 13.0/base_changeset/i18n/base_changeset.pot\n"
 "X-Crowdin-File-ID: 5528\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 22:03\n"
+"PO-Revision-Date: 2022-08-17 16:20\n"
 
 #. module: base_changeset
 #: model:ir.model.constraint,message:base_changeset.constraint_changeset_field_rule_model_field_uniq
@@ -1621,7 +1621,7 @@ msgstr "Anzeigename"
 #: model_terms:ir.ui.view,arch_db:base_changeset.view_record_changeset_change_search
 #: model_terms:ir.ui.view,arch_db:base_changeset.view_record_changeset_search
 msgid "Done"
-msgstr ""
+msgstr "Erledigt"
 
 #. module: base_changeset
 #: model:ir.model.fields,field_description:base_changeset.field_changeset_field_rule__field_id
