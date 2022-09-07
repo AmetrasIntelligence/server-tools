@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.server-tools] 13.0/iap_alternative_provider/i18n/iap_alternative_provider.pot\n"
 "X-Crowdin-File-ID: 5578\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 22:03\n"
+"PO-Revision-Date: 2022-09-07 15:18\n"
 
 #. module: iap_alternative_provider
 #: model:ir.model,name:iap_alternative_provider.model_iap_account
@@ -24,7 +24,7 @@ msgstr ""
 #. module: iap_alternative_provider
 #: model_terms:ir.ui.view,arch_db:iap_alternative_provider.iap_account_view_form
 msgid "Info"
-msgstr ""
+msgstr "Info"
 
 #. module: iap_alternative_provider
 #: model:ir.model.fields,field_description:iap_alternative_provider.field_iap_account__name
